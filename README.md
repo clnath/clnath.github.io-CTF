@@ -1,1 +1,0 @@
-# clnath.github.io-CTF
